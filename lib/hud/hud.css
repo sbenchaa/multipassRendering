@@ -1,0 +1,43 @@
+body{
+ -webkit-touch-callout: none;
+ -webkit-user-select: none;
+ -khtml-user-select: none;
+ -moz-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
+
+}
+input{
+ width:100%;
+ height:100%;
+ text-align:center;
+ border:0px;
+ color:333333;	
+}
+table{
+ background-color:#333333;
+}
+td{
+ padding:0;
+ margin:0;
+ width:50px;
+}
+div{
+ margin:10px;
+}
+h5{
+ color:gray;
+}
+
+#author{
+ position:absolute;
+ background-color:#030033;
+ height:20px;
+ bottom:0px;
+ right:0px;
+ margin:0;
+ padding:0;
+ color:white;
+ padding:3px;
+ font-size:10px;
+}
